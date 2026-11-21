@@ -1,2 +1,1 @@
-
-<img src="S17Ariyan" width="100%" alt="Computer Engineer" />
+<img src="https://raw.githubusercontent.com/S17Ariyan/USERNAME/main/github-banner.svg" width="100%" alt="Computer Engineer" />
