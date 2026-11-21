@@ -18,9 +18,7 @@
 - 🚀 Building new projects
 - 🎮 Gamer
 
-## 🛠️ My Skills
-
-😁👍
+##
 
 ## 📊 GitHub Stats
 
