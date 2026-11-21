@@ -1,1 +1,31 @@
-<img src="https://raw.githubusercontent.com/S17Ariyan/S17Ariyan/main/github-banner.svg" width="100%" alt="Computer Engineer" />
+
+
+
+<div align="center">
+
+### Computer Engineering Student 💻
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/amirakhoondi72-collab/amirakhoondi72-collab/main/banner.png" width="100%">
+</div>
+
+
+## 👨‍💻 About Me
+
+- 🎓 Computer Engineering Student
+- 🌱 Currently learning Programming
+- 💻 Interested in Software Development
+- 🚀 Building new projects
+- 🎮 Gamer
+
+## 🛠️ My Skills
+
+😁👍
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=amirakhoondi72-collab&show_icons=true&theme=tokyonight)
+
+## 🌐 Connect With Me
+
+[GitHub](amirakhoondi72-collab)
