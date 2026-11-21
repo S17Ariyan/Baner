@@ -6,7 +6,7 @@
 ### Computer Engineering Student 💻
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/amirakhoondi72-collab/amirakhoondi72-collab/main/banner.png" width="100%">
+  <img src="https://raw.githubusercontent.com/amirakhoondi72-collab/S17Ariyan/main/banner.png" width="100%">
 </div>
 
 
