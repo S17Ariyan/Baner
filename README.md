@@ -22,7 +22,7 @@
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=S17Ariyan-collab&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=S17Ariyan&show_icons=true&theme=tokyonight)
 
 ## 🌐 Connect With Me
 
